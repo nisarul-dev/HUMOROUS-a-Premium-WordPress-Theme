@@ -6,3 +6,11 @@
 .idea/Humorous.iml
 .idea/codeStyles/Project.xml
 .idea/codeStyles/codeStyleConfig.xml
+*.meta
+*.len
+*.xml
+*.at
+*.values
+*.s
+*.dat
+*.dat_i
